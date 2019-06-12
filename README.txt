@@ -1,5 +1,9 @@
 -Estraete la cartella dove preferite. Basta che schiaccaite il pulsante 'Estrai in'
 
+-A seconda che abbiate Firefox o Chrome scaricate i seguenti file.
+ Chrome:https://sites.google.com/a/chromium.org/chromedriver/downloads
+ Firefox:https://github.com/mozilla/geckodriver/releases
+
 -Aprite con il blocco note il file 'AlternanzaBot'
 
 -Sostituite ***inserisci browser*** con il nome del vostro browser: Firefox, Chrome. Importante la lettera maiuscola.
