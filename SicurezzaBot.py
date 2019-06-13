@@ -7,7 +7,7 @@ usr = input('Inserisci il tuo username:')
 pwd = getpass.getpass("Insersci la tua password:")
 
 # Apre il browser alla pagina di log in del registro
-driver = webdriver.***inserisci browser***(executable_path='***inserisci qui percorso driver***')
+driver = webdriver.Firefox(executable_path='C:\Program Files\geckodriver\geckodriver.exe')
 driver.get('https://web.spaggiari.eu/col/app/default/corso.php?corso=sicstu&p=set&view=pre')
 
 # inserisce lo username
